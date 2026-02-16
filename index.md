@@ -20,7 +20,7 @@ Feature 4: API integration
     <nav>
         <a href="index.html">Home</a>
         <a href="about.html">About</a>
-        <a href="experience.html">Experience</a>
+        <a href="experience.md">Experience</a>
         <a href="projects.html">Projects</a>
         <a href="contact.html">Contact</a>
     </nav>
