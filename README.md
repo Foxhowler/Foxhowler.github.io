@@ -11,24 +11,27 @@
 <body>
 
 <!-- Web Design and Technologies
-Feature 1: Multi-page navigation system
-Feature 2: External CSS styling
-Feature 3: JavaScript functionality
-Feature 4: API integration -->
+Feature 1: Navigation bar
+Feature 2: Responsive layout
+Feature 3: JavaScript interaction
+Feature 4: API integration
+-->
 
 <header>
-    <h1>Kelton Mountford</h1>
-    <h3>Web Development & Technology Specialist</h3>
-
+    <h1>Your Name</h1>
     <nav>
-        <a href="index.html">Home</a>
-        <a href="about.html">About</a>
-        <a href="experience.html">Experience</a>
-        <a href="projects.html">Projects</a>
-        <a href="contact.html">Contact</a>
+        <a href="index.md">Home</a>
+        <a href="about.md">About</a>
+        <a href="experience.md">Experience</a>
+        <a href="projects.md">Projects</a>
+        <a href="contact.md">Contact</a>
     </nav>
 </header>
 
+<section>
+    <h2>Welcome</h2>
+    <p>This is my professional resume website.</p>
+</section>
 <section id="hero">
     <h2>Building Functional and Professional Web Experiences</h2>
     <p>
