@@ -1,10 +1,10 @@
+<html lang="en">
 <!--Required section from Rubric-->
 <!DOCTYPE html>
-<html lang="en">
-
-<head>
+</html>
+  <head>
     <meta charset="UTF-8">
-    Kelton Mountford - Web Design and Technologies
+    <title> Kelton Mountford - Web Design and Technologies </title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <!--Web  Web Design and Technologies-->
