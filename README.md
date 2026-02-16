@@ -1,16 +1,69 @@
-<h2>Technical Skills</h2>
+<!--Required section from Rubric-->
+<!DOCTYPE html>
+<html lang="en">
 
-<table border="1">
-    <tr>
-        <th>Skill</th>
-        <th>Experience Level</th>
-    </tr>
-    <tr>
-        <td>HTML</td>
-        <td>Advanced</td>
-    </tr>
-    <tr>
-        <td>CSS</td>
-        <td>Intermediate</td>
-    </tr>
-</table>
+<head>
+    <meta charset="UTF-8">
+    Kelton Mountford - Web Design and Technologies
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<!--Web  Web Design and Technologies-->
+<body>
+
+<!-- Web Design and Technologies
+Feature 1: Multi-page navigation system
+Feature 2: External CSS styling
+Feature 3: JavaScript functionality
+Feature 4: API integration -->
+
+<header>
+    <h1>Kelton Mountford</h1>
+    <h3>Web Development & Technology Specialist</h3>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="experience.html">Experience</a>
+        <a href="projects.html">Projects</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+<section id="hero">
+    <h2>Building Functional and Professional Web Experiences</h2>
+    <p>
+        I specialize in creating structured, accessible, and responsive websites using
+        <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>.
+        My focus is on combining clean design with technical precision.
+    </p>
+
+    <img src="images/profile-placeholder.jpg" alt="Professional placeholder image" width="200">
+</section>
+
+<section>
+    <h2>Core Competencies</h2>
+    <ul>
+        <li>Semantic HTML5 Structure</li>
+        <li>External CSS Design & Layout</li>
+        <li>Client-Side JavaScript Programming</li>
+        <li>API Integration</li>
+        <li>Form Validation & User Interaction</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Featured Objective</h2>
+    <p>
+        This website serves as a demonstration project showcasing front-end development
+        skills aligned with professional web standards and deployment practices.
+    </p>
+</section>
+
+<footer>
+    <p>© 2026 Kelton Mountford | Professional Portfolio Demonstration</p>
+</footer>
+
+<script src="js/script.js"></script>
+
+</body>
+</html>
